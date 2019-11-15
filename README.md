@@ -1,5 +1,6 @@
 ![Gregory Stannard](github_pages.jpg)
-# Welcome to Gregory Stannard's homepage.
+
+# Full stack developer and tech enthusiast based in NYC!
 > "Whether you think you can, 
 > or you can't -- you're right"  ~ Henry Ford
 
